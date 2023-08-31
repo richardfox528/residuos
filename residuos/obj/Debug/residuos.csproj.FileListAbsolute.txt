@@ -1,0 +1,7 @@
+C:\Users\richa\source\repos\residuos\residuos\bin\Debug\residuos.exe.config
+C:\Users\richa\source\repos\residuos\residuos\bin\Debug\residuos.exe
+C:\Users\richa\source\repos\residuos\residuos\bin\Debug\residuos.pdb
+C:\Users\richa\source\repos\residuos\residuos\obj\Debug\residuos.csproj.AssemblyReference.cache
+C:\Users\richa\source\repos\residuos\residuos\obj\Debug\residuos.csproj.CoreCompileInputs.cache
+C:\Users\richa\source\repos\residuos\residuos\obj\Debug\residuos.exe
+C:\Users\richa\source\repos\residuos\residuos\obj\Debug\residuos.pdb
